@@ -7,3 +7,19 @@
     text-align: center;
 
 }
+
+.outLine{
+    display: flex;
+    height: 100%;
+    flex-direction: column;
+
+}
+
+.content{
+    flex: 1;
+    overflow: auto;
+}
+
+.side{
+    color: rgba(255, 255, 255, 0.65);
+}
